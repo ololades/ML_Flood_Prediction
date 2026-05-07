@@ -51,11 +51,11 @@ Der Datensatz enthält Umwelt- und Geofaktoren zum Thema Hochwasser.
 
 Beispielmerkmale:
 
-- Höhe
-- Niederschlag
-- Bodentyp
-- Landnutzung
-- Bevölkerungsdichte
+- Elevation
+- Rainfall
+- Soil Type
+- Land Use
+- Population Density
 
 Zielwerte:
 
@@ -105,7 +105,7 @@ Die Modelle wurden bewertet mit:
 
 ---
 
-## 📉 Vergleich der ROC-Kurven
+##  Vergleich der ROC-Kurven
 
 Vergleich der Modellleistung mit ROC-AUC.
 
@@ -113,7 +113,7 @@ Vergleich der Modellleistung mit ROC-AUC.
 
 ---
 
-## 🧩 Konfusionsmatrix
+##  Konfusionsmatrix
 
 ### Random Forest
 
@@ -129,7 +129,7 @@ Vergleich der Modellleistung mit ROC-AUC.
 
 ---
 
-## ⭐ Wichtigkeit der Merkmale
+##  Wichtigkeit der Merkmale
 
 Merkmalswichtigkeit aus dem Random-Forest-Modell.
 
@@ -137,7 +137,7 @@ Merkmalswichtigkeit aus dem Random-Forest-Modell.
 
 ---
 
-## 💾 Gespeicherte Modelle
+##  Gespeicherte Modelle
 
 Die trainierten Modelle sind gespeichert in:
 
@@ -155,7 +155,7 @@ XGBoost_model.pkl
 
 ---
 
-## 🚀 Projekt lokal ausführen
+##  Projekt lokal ausführen
 
 Repository klonen:
 
@@ -174,12 +174,13 @@ Notebook-Skripte ausführen.
 
 ---
 
-## 🌐 Verwandtes Projekt
+##  Verwandtes Projekt
 
 Webanwendung für Deployment:
 
 ```text
 ML_Flood_Prediction_Website
+https://github.com/ololades/ML_Flood_Prediction_Website
 ```
 
 ---
