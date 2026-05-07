@@ -1,4 +1,4 @@
-# 🌧️ Hochwasser-Vorhersage mit Machine Learning
+#  Hochwasser-Vorhersage mit Machine Learning
 
 Machine-Learning-Projekt zur Vorhersage von Hochwasserrisiken mit Umwelt- und Geodaten.
 
